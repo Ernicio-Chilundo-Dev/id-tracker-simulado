@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    font-family: 'Segoe UI', sans-serif;
+    background: #f3f4f6;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    text-align: center;
+    padding: 2rem;
+    border-radius: 15px;
+    background-color: #fff;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+    max-width:400px;
+    width: 90%;
+}
